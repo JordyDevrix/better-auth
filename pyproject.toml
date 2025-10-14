@@ -36,7 +36,7 @@ Documentation = "https://github.com/JordyDevrix/better_auth/wiki"
 
 
 [tool.comfy]
-PublisherId = "JordyDevrix"
+PublisherId = "jordydevrix"
 DisplayName = "BetterAuth"
 Icon = ""
 Tags = []
